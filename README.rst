@@ -1,5 +1,5 @@
 ===================
- Django Extensions
+ Django Extension
 ===================
 
 .. image:: https://img.shields.io/pypi/l/django-extensions.svg
